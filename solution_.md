@@ -7,5 +7,8 @@
 ![Plot](NL_Beer.jpg)
 
 
+The Beer consumption is seeing an increasing trend in NL since 2012.
+
+
 
 
